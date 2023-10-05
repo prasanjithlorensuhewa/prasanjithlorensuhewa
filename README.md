@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Prasanjith Lorensuhewa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanjithlorensuhewa&label=Profile%20views&color=0e75b6&style=flat" alt="prasanjithlorensuhewa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prasanjithl" target="blank"><img src="https://img.shields.io/twitter/follow/prasanjithl?logo=twitter&style=for-the-badge" alt="prasanjithl" /></a> </p>
 
