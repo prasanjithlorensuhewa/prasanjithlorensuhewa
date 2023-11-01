@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/prasanjithl" target="blank"><img src="https://img.shields.io/twitter/follow/prasanjithl?logo=twitter&style=for-the-badge" alt="prasanjithl" /></a> </p>
 
 - 👨‍💻 Visit my blogging site to get an understanding of my activites. [https://prasanjithlorensuhewa.blogspot.com/](https://prasanjithlorensuhewa.blogspot.com/)
-- 👨‍💻 Visit my portfolio site to learn more about me. [http://prasanjith.me/](http://prasanjith.me/)
+- 👨‍💻 Visit my portfolio site to learn more about me. [http://prasanjith.me/](https://prasanjithlorensuhewa.github.io/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prasanjithl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasanjithl" height="30" width="40" /></a>
